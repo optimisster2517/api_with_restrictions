@@ -101,6 +101,35 @@ advertisements_project/
 - ✅ Подробная документация
 
 ---
+# 👀 Демонстрация работы
+
+## 1. Административная панель
+
+<p align="center">
+  <img src="https://github.com/optimisster2517/api_with_restrictions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG" width="400" alt="Объявления в админке"/>
+</p>
+
+<p align="center">
+  Список объявлений в панели администратора
+</p>
+
+<p align="center">
+  <img src="https://github.com/optimisster2517/api_with_restrictions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG" width="400" alt="Главная страница админки"/>
+</p>
+
+<p align="center">
+  Главная страница административной панели
+</p>
+
+## 2. Интерфейс приложения
+
+<p align="center">
+  <img src="https://github.com/optimisster2517/api_with_restrictions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG" width="400" alt="Главная страница"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/optimisster2517/api_with_restrictions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.PNG" width="400" alt="Интерфейс приложения"/>
+</p>
 
 
 ---
